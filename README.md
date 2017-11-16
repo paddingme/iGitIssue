@@ -18,5 +18,5 @@ GitIssue user can subscribe or unsubscribe  Github repository  easily with this 
 若无法翻墙可直接点击[这里](https://gitissue.com/public/iGitIssue.crx)进行下载，从浏览器打开 `chrome://extensions/` 地址直接将下载好的 iGitIssue.crx 拖到扩展程序界面即可。
 
 <p align="center">
-  <img src="https://gitissue.com/public/iGitIssue.png" alt="GitIssue">
+  <img src="https://gitissue.com/public/iGitIssue.png?i=gitissue" alt="GitIssue">
 </p>
