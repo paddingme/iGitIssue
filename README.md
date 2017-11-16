@@ -1,6 +1,7 @@
 
 # iGitIssue
 
+
 『iGitIssue』 is a Google Chrome extension for [GitIssue](https://gitissue.com).
 
 GitIssue user can subscribe or unsubscribe  Github repository  easily with this extension when visiting Github.
@@ -10,5 +11,5 @@ GitIssue user can subscribe or unsubscribe  Github repository  easily with this 
 
 
 <p align="center">
-  <img src="https://gitissue.com/public/iGitIssue.png" alt="GitIssue" width="600">
+  <img src="https://gitissue.com/public/iGitIssue.png" alt="GitIssue">
 </p>
