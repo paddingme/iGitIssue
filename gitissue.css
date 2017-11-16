@@ -1,0 +1,11 @@
+#gitIssue {
+    position: relative;
+}
+
+#gitIssue img {
+    position: relative;
+    top: 2px;
+    left: 0;
+    margin-right: 5px;
+    width: 16px;
+}
